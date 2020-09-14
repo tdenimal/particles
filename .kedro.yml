@@ -1,0 +1,6 @@
+context_path: particles.run.ProjectContext
+project_name: "particles"
+project_version: "0.16.5"
+package_name: "particles"
+hooks:
+  - particles.hooks.project_hooks
